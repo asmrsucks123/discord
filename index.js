@@ -1,7 +1,7 @@
 const Discord = require('discord.js')
 const bot = new Discord.Client();
 
-const token = 'NjgyMzgzNzI2MzAyMTk5ODE4.XlsQ4w.o36naYtjOAx8Tu-jgF6bomusWE4'
+const token = not for uuuuu
 
 var servers = {};
 
